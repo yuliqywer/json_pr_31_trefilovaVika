@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr_json_trefilova</string>
+    <string name="name">Название товара</string>
+    <string name="price">Цена</string>
+    <string name="teg">Теги через запятую</string>
+    <string name="object">Объект, созданный руками</string>
+    <string name="pole">Объект из полей ввода</string>
+    <string name="samoprov">Самопроверка ошибок</string>
+</resources>
